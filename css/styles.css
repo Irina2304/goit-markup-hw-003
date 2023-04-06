@@ -149,6 +149,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--dark);
+    padding: 24px 0
 }
 
 .menu-link:hover,
@@ -335,7 +336,6 @@ body {
 }
 
 .container-footer {
-
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
